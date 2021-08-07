@@ -14,8 +14,9 @@ h3 {
   font-family: "Montserrat", sans-serif;
 }
 
-.links {
-  text-align: center;
+links {
+  display: inline-block;
+  color: black;
 }
 img {
   margin: auto;
