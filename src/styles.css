@@ -4,9 +4,20 @@ body {
     hsla(34, 57%, 70%, 1) 16%,
     hsla(0, 0%, 100%, 1) 100%
   );
+  text-align: center;
 }
 
-h1 {
+h1,
+h3 {
   text-align: center;
   color: black;
+  font-family: "Montserrat", sans-serif;
+}
+
+.links {
+  text-align: center;
+}
+img {
+  margin: auto;
+  padding: auto;
 }
