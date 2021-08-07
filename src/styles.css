@@ -18,6 +18,10 @@ footer a {
   color: black;
 }
 
+footer {
+  text-align: center;
+}
+
 links {
   display: inline-block;
   color: black;
@@ -25,4 +29,16 @@ links {
 img {
   margin: auto;
   padding: auto;
+  text-align: center;
+}
+
+.email-link {
+  text-align: center;
+  color: black;
+}
+
+.crossaint-photo {
+  max-width: 30%;
+  border-radius: 10px;
+  display: block;
 }
