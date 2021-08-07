@@ -4,7 +4,6 @@ body {
     hsla(34, 57%, 70%, 1) 16%,
     hsla(0, 0%, 100%, 1) 100%
   );
-  text-align: center;
 }
 
 h1,
@@ -12,6 +11,11 @@ h3 {
   text-align: center;
   color: black;
   font-family: "Montserrat", sans-serif;
+}
+
+footer a {
+  margin: 0 10px;
+  color: black;
 }
 
 links {
