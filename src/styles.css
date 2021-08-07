@@ -1,5 +1,9 @@
 body {
-  background-color: burlywood;
+  background: linear-gradient(
+    90deg,
+    hsla(34, 57%, 70%, 1) 16%,
+    hsla(0, 0%, 100%, 1) 100%
+  );
 }
 
 h1 {
